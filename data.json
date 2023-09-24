@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "books": [
+     {
+        "source": {
+            "id": null,
+            "name": "We'll Meet Again"
+        },
+        "author": "Mary Higgins Clark",
+        "story": "The mistress of high tension” (The New Yorker) and undisputed Queen of Suspense Mary Higgins Clark brings us another New York Times bestselling novel that she “prepares so carefully and executes with such relish” (The New York Times Book Review) about the murder of a respected doctor—and his beautiful young wife charged with the crime."
+     },
+     {
+        "source": {
+            "id": null,
+            "name": "The Silent Patient"
+        },
+        "author": " Alex Michaelides",
+        "story": "The Silent Patient is a shocking psychological thriller of a woman's act of violence against her husband―and of the therapist obsessed with uncovering her motive."
+     },
+     {
+        "source": {
+            "id": null,
+            "name": "How to be Happy"
+        },
+        "author": "Eva Woods",
+        "story": "The smallest things can make the biggest difference"
+     },
+     {
+        "source": {
+            "id": null,
+            "name": "Blood Meridian"
+        },
+        "author": "Cormac McCarthy",
+        "story":  "the kid,as he travels across the American southwest and northern Mexico in the late 1840s.The kid witnesses and participates in acts of extreme violence, especially alongside the Glanton Gang, a group of murders and scalp hunters led by the evil Judge Holden."
+     },
+     {
+        
+        "source": {
+            "id": null,
+            "name": "A Little Life"
+        },
+        "author": "Hanya Yanagihara",
+        "story": "A Little Life (2015) follows the lives of four friends in New York City: aspiring actor Willem, moody painter JB, quiet architect Malcolm, and the brilliant, mysterious litigator Jude. Over the years, the four friends grow together, drift apart, find love and success, and struggle with loss and addiction."
+     }
+   ]
+}
